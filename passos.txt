@@ -1,3 +1,9 @@
 Configurar o Git local:
 git config --global user.name Lohanylima
 git config --global user.email lohanyaiunydelima@gmail.com
+
+Criar um projeto:
+dotnet new mvc -o Pokedex
+
+Executar um projeto:
+dotnet watch run
